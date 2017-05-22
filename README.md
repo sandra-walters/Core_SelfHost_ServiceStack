@@ -1,0 +1,1 @@
+Core_SelfHost_ServiceStack

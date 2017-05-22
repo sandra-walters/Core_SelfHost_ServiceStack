@@ -1,0 +1,8 @@
+{
+    "publishOptions": {
+        "include": [
+            "appsettings.json"
+            // Any other files that need to be published go here
+        ]
+    }
+}
